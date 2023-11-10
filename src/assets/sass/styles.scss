@@ -1,0 +1,8 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+@media(max-width:768px) {
+    #button-send {
+        align-self: center !important;
+        width: 100% !important;
+    }
+}
